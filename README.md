@@ -24,8 +24,10 @@ It's a Dummy Website. In this website you can upload your notes or videos.
 - Now, the project is ready to use. 
 - It will open the website locally through localhost on your browser.
 
+
 # Customize it to make your own website ✏️
 In this project, there are basically 3 things that you need to change to customize this to anyone else's website: **index.php**, **contactus.php**, **show_database.php** and **Personal information**.
+
 
 # Technologies used 🛠️
 
@@ -34,6 +36,7 @@ In this project, there are basically 3 things that you need to change to customi
 - [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) 
 - [Php]()
 - [Mysqli]()
+
 
 # License
 
