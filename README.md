@@ -24,7 +24,10 @@ It's a Dummy Website. In this website you can upload your notes or videos.
 - Now, the project is ready to use. 
 - It will open the website locally through localhost on your browser.
 
-## Technologies used 🛠️
+# Customize it to make your own website ✏️
+In this project, there are basically 3 things that you need to change to customize this to anyone else's website: **index.php**, **contactus.php**, **show_database.php** and **Personal information**.
+
+# Technologies used 🛠️
 
 - [Html]()
 - [Css]() 
@@ -32,7 +35,7 @@ It's a Dummy Website. In this website you can upload your notes or videos.
 - [Php]()
 - [Mysqli]()
 
-## License
+# License
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
