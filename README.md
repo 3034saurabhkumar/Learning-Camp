@@ -1,7 +1,13 @@
 # Learning-Camp
+
 It's a Dummy Website. In this website you can upload your notes or videos.
+
 ![Alt Text](https://github.com/3034saurabhkumar/Learning-Camp/blob/master/docs/project.mp4)
+
 ## License
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
 Copyright 2020
 
 Licensed under the Apache License, Version 2.0 (the "License");
