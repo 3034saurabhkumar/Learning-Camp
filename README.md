@@ -4,6 +4,14 @@ It's a Dummy Website. In this website you can upload your notes or videos.
 
 ![](docs/project.mp4)
 
+## Technologies used 🛠️
+
+- [Html]()
+- [Css]() 
+- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) 
+- [Php]()
+- [Mysqli]()
+
 ## License
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
