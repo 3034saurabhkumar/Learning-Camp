@@ -5,7 +5,7 @@
   <a href="https://github.com/ashutosh1919/masterPortfolio/commits/master"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
 <a href="http://www.apache.org/licenses/LICENSE-2.0"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat-square" /></a>
 <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a><br>
-A clean, beautiful, responsive and 100% customizable Dummy Website template for Beginners! In this website you can upload your own files like pdf,jpg,zip etc.
+A clean, beautiful, responsive and 100% customizable Dummy Website template for Beginners! In this website you can upload your own files like pdf, jpg, zip etc.
 
 ![](https://github.com/3034saurabhkumar/Learning-Camp/blob/master/docs/project%20(2).gif)
 
