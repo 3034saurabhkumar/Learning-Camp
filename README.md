@@ -7,7 +7,7 @@
 <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a><br>
 A clean, beautiful, responsive and 100% customizable Dummy Website template for Beginners! In this website you can upload your own files like pdf,jpg,zip etc.
 
-![](docs/project.mp4)
+![](https://github.com/3034saurabhkumar/Learning-Camp/blob/master/docs/project%20(2).gif)
 
 # Clone And Use 📋
 - The website is built on `php`.
