@@ -1,8 +1,28 @@
-<h1> Learning-Camp 🔥 </h1>
-
+# Learning-Camp 🔥
+  <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
+  <a href="https://travis-ci.org/badges/badgerbadgerbadger"><img alt="Build Status" src="http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square?style=flat-square" /></a>
+  <a href="http://www.apache.org/licenses/LICENSE-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square?style=flat-square" /></a>
+  <a href="https://github.com/ashutosh1919/masterPortfolio/commits/master"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
+<a href="http://www.apache.org/licenses/LICENSE-2.0"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat-square" /></a>
+<a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a><br>
 It's a Dummy Website. In this website you can upload your notes or videos.
 
 ![](docs/project.mp4)
+
+# Clone And Use 📋
+- The website is built on `php`.
+- In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
+- After the successful installation of `localhost`, clone the repository into your local system using below command:
+    - ```python
+       git clone https://github.com/3034saurabhkumar/Learning-Camp.git
+       ```
+    - This will clone the whole repository in your system.
+- After cloning the repository, import project.sql file to create database in phpmyadmin.
+    - ```python
+      project.sql
+      ```
+- Now, the project is ready to use. 
+- It will open the website locally through localhost on your browser.
 
 ## Technologies used 🛠️
 
